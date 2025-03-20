@@ -1,6 +1,6 @@
 # MyGest-IOn-R
 
-Le projet "MyGest IOn'R" est un projet scolaire de première année composé de deux parties distinctes.  
+Le projet "MyGest IOn'R" est un projet scolaire de première année composé de deux parties distinctes.   
 
 La première partie, après une interface de bienvenue, permet la gestion et la manipulation de données dans une base de données saisie par l'utilisateur. Plusieurs fonctionnalités sont disponibles, notamment l'affichage, l'ajout et la suppression de données.  
 
